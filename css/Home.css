@@ -84,6 +84,8 @@ a{
 }
 .card img{
     margin-left: 10px;
+    width: 60px;
+    height: 60px;
 }
 .card button{
     margin-left: 250px;
